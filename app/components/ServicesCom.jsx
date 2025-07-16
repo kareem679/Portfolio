@@ -7,7 +7,7 @@ const ServicesCom = () => {
     Services
   </h1>
 
-  <div className="w-full flex flex-wrap justify-center   xl:justify-between px-20 xl:px-56  ">
+  <div className="w-full flex flex-wrap  xl:justify-between  xl:px-56  ">
     <div className="w-full  xl:w-1/2">
       <h2 className="text-4xl  font-bold mb-2">Front-end Services</h2>
       <h3 className="text-2xl underline font-semibold mb-4">My Services</h3>
